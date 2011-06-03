@@ -1,3 +1,6 @@
-_Permissions_
+Permissions
+-----------
 
 A few years ago I wrote a simple but handy Mac app that calculates unix file permissions using a matrix of check boxes. I wrote it because I wanted to better understand how those octal values get calculated and to expand my experience of writing Mac apps. I was also learning some crazy assembly code at the time too so I was also making sense of putting bitwise operations to task. Rather than let this code languish on my hard drive, I thought I’d share…
+
+http://richardwarrender.com/2011/06/calculating-unix-file-permissions/
